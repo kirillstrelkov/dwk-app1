@@ -6,4 +6,4 @@ resources:
 images:
 - name: PROJECT/IMAGE
   newName: kirillstrelkov/dwk1
-  newTag: 624339a0835af9157df2f1ddfbb272a783e8aaa8
+  newTag: fceda3c9d7d40d7e0bf3d404d7726bb146e004b5
